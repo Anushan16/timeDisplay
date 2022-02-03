@@ -1,0 +1,1 @@
+An app created to help practice Declaritive Programming.Utilized React Hooks to  update the state of current time. Also added a "Set Interval" Method to call function every second. 
